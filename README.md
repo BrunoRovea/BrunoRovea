@@ -5,3 +5,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bruno.rrovea@gmail.com)
 
 ![Rovea GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoRovea&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRovea&layout=compact)
